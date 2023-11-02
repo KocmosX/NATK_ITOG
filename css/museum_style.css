@@ -1,0 +1,10 @@
+a {
+    text-decoration: none!important;
+}
+@media (max-width: 1000px) {
+
+    .opacity-photo.img_adaptiv {
+      background-size: contain;
+      max-height: 475px;
+  }
+  }
